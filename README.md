@@ -1,1 +1,2 @@
 - Tasks being worked on and structures
+- First week homework was done.
